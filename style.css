@@ -1,0 +1,38 @@
+div{
+    background-image: linear-gradient(#2e55b9,#686de0,#22a6b3,#1abc9c);
+}
+img{
+    width: 350;
+    height: 400;
+    border-radius: 350px;
+}
+body{
+    text-align: center;
+}
+hr{
+    width: 50px;
+    height: 4px;
+   background-color: #2e55b9;
+}
+h1{
+    font-family: 'Agbalumo';
+}
+h2{
+    font-family: 'Anton';
+}
+p{
+    font-family: 'Bayon';
+}
+ul{
+    position:absolute;
+    top:10px;
+    right:30px;
+    cursor:pointer;
+}
+li{
+    float:left;
+    padding-top:5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+}
